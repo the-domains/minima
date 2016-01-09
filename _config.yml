@@ -1,6 +1,6 @@
 name: Minima
 favicon: null
-layout_spectrum: 0.761973214102909
+layout_spectrum: 0.57383
 typography_spectrum: 0.5671426556073129
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#cecfd3'
+    - '#645f5c'
+    - '#010100'
+    - '#908b88'
   brandStrength: 0.5374018833972514
   lightness: 0.055398627649992704
   saturation: 0.2804327281191945
